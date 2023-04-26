@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_1331" data-name="Group 1331" transform="translate(-0.203 -0.203)">
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(0.203 0.203)" fill="rgba(13,125,172,0.05)" stroke="rgba(13,125,172,0.2)" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+    <g id="Icon_-_white_set" data-name="Icon - white set" transform="translate(6.536 6.536)">
+      <path id="Path_441" data-name="Path 441" d="M0,0H12V12H0Z" fill="none"/>
+      <g id="home_black_24dp">
+        <path id="Path_473" data-name="Path 473" d="M0,0H12V12H0Z" fill="none"/>
+        <g id="Group_954" data-name="Group 954" transform="translate(0.35 0.666)">
+          <g id="_939750_in_linked_linkedin_icon_icon" data-name="939750_in_linked_linkedin icon_icon">
+            <path id="Path_5" data-name="Path 5" d="M11.068,1H1.915A.918.918,0,0,0,1,1.915v9.153a.918.918,0,0,0,.915.915h9.153a.918.918,0,0,0,.915-.915V1.915A.918.918,0,0,0,11.068,1Z" transform="translate(-1 -1)" fill="#0e76a8"/>
+            <g id="in" transform="translate(0.994 0.902)">
+              <path id="n_1_" d="M21.3,20.7h1.82v.91h0a1.983,1.983,0,0,1,1.82-.91c1.925,0,2.134,1.085,2.134,2.729v3.324h-1.82V23.709c0-.7.07-1.5-.91-1.5-1.225,0-1.225.735-1.225,1.5v3.044H21.3V20.7Z" transform="translate(-18.069 -17.574)" fill="#fff"/>
+              <rect id="_x7C__1_" width="1.82" height="6.054" transform="translate(0.14 3.126)" fill="#fff"/>
+              <circle id="_x28____x29__1_" cx="1.05" cy="1.05" r="1.05" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* poppins font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
+/* Variables */
+:root {
+    --primary-color: #FF5A00;
+    --secondary-color: #1C7369;
+    --body-text-color: #565656;
+    --title-text-color: #363636;
+    --text-subtext-color: #75787B;
+    --text-light-color: #A7A8AA;
+    --gray-light-color: #F4F4F4;
+}
+
+/* Utilities */
+
+
+/* Font Family */
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.font-opensans{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Font Sizes */
+.fs-18{
+    font-size: 18px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-12{
+    font-size: 12px;
+}
+.fs-10{
+    font-size: 10px;
+}
+
+/* Text Colors */
+.primary-color {
+    color: var(--primary-color);
+}
+.secondary-color {
+    color: var(--secondary-color);
+}
+.body-text-color{
+    color: var(--body-text-color);
+}
+.title-text-color{
+    color: var(--title-text-color);
+}
+.text-subtext-color{
+    color: var(--text-subtext-color);
+}
+.text-light-color{
+    color: var(--text-light-color);
+}
+
+/* Backgrounds */
+.bg-primary-color{
+    background-color: var(--primary-color);
+}
+.bg-gray-light{
+    background-color: var(--gray-light-color);
+}
+
+/* Buttons */
+.btn-primary{
+    border: none;
+    border-radius: 1px;
+    background-color: var(--primary-color);
+    padding-block: 5px;
+}

@@ -1,0 +1,32 @@
+.main{
+    background-image: url('/assets/icon bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.box{
+    width: 60%;
+    height: 604px;
+}
+
+.card-section {
+    background-image: url('/assets/Mask Group 1.svg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.card{
+    box-shadow: 1px 1px 10px 2px rgb(218, 215, 215);
+}
+
+.password, .shadow-none{
+    background-color: #f4f4f4;
+}
+
+.border-primary-left{
+    border: 5px solid;
+    border-bottom: 0;
+    border-top: 0;
+    border-right: 0;
+    border-color: var(--primary-color);
+}

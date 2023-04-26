@@ -1,0 +1,15 @@
+.background{
+    background-image: url('/assets/icon bg.png');
+    height: 350px;
+    background-size: cover;
+}
+.card{
+    width: 40%;
+    box-shadow: 1px 1px 10px 2px rgb(218, 215, 215);
+}
+.message{
+    width: 90%;
+}
+.main{
+    min-height: 100vh;
+}
