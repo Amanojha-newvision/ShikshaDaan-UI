@@ -8,8 +8,11 @@
     box-shadow: 1px 1px 10px 2px rgb(218, 215, 215);
 }
 .message{
-    width: 90%;
+    width: 75%;
 }
 .main{
     min-height: 100vh;
+}
+.logo-position{
+    margin-top: 5%;
 }

@@ -5,8 +5,8 @@
 }
 
 .box{
-    width: 60%;
     height: 604px;
+    width: 60%;
 }
 
 .card-section {
@@ -29,4 +29,7 @@
     border-top: 0;
     border-right: 0;
     border-color: var(--primary-color);
+}
+.logo-position{
+    margin-top: 5%;
 }
